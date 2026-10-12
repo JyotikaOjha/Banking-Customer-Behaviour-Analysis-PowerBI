@@ -53,8 +53,8 @@ Build an interactive Power BI dashboard that:
 | Total records | **1,400+** rows across the 4 main tables |
 
 ### Data Tables
-| Table | Rows | Columns | Key fields |
-|---|---|---|---|
+| Table | Rows | Columns |
+|---|---|---|
 | Customers | 200 | 7 | 
 | Accounts | 200 | 5 | 
 | Branches | 6 | 5 | 
